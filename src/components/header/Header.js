@@ -8,7 +8,7 @@ const Header = () => {
 					<strong>
 						Привет, меня зовут <em>Мансур</em>
 					</strong>
-					<br />я начинающий frontend разработчик
+					<br />я начинающий Frontend-разработчик
 				</h1>
 				<a href="https://cv-green-delta.vercel.app/" className="btn" target="_blank">
 					CV
