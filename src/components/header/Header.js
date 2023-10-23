@@ -10,7 +10,7 @@ const Header = () => {
 					</strong>
 					<br />я начинающий frontend разработчик
 				</h1>
-				<a href="#!" className="btn">
+				<a href="https://cv-green-delta.vercel.app/" className="btn" target="_blank">
 					CV
 				</a>
 			</div>

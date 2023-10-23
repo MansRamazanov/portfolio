@@ -13,8 +13,8 @@ import project04Big from "./../img/projects/sandbox.png";
 import project05 from "./../img/projects/burger_mini.png";
 import project05Big from "./../img/projects/burger.png";
 
-// import project06 from "./../img/projects/06.jpg";
-// import project06Big from "./../img/projects/06-big.jpg";
+import project06 from "./../img/projects/3D_scroll_mini.png";
+import project06Big from "./../img/projects/3D_scroll.png";
 
 import project07 from "./../img/projects/mesto_mini.png";
 import project07Big from "./../img/projects/mesto.png";
@@ -49,6 +49,13 @@ const projects = [
 		about: 'В данном проекте я реализовал вёрстку при помощи HTML и CSS, а также использовал JavaScript. Ключевой особенностью данного проекта является реализация эффекта глубины на сайте посредством 3D перспективы. Отслеживание положения мышки и дождь реализованы про помощи JavaScript',
 	},
 	{
+		title: 'Deep Scroll',
+		web: 'https://3-d-scroll-xi.vercel.app/',
+		img: project06,
+		imgBig: project06Big,
+		about: 'В этом проекте я создал сайт с 3D анимацией скролла, используя возможности современного HTML, CSS и JavaScript. Я разработал модель движения слайдов в глубину, поработал над кастомной анимацией, плавностью и оформил композицию с помощью CSS.',
+	},
+	{
 		title: 'React sandbox',
 		web: 'https://scroll-website-livid.vercel.app/',
 		img: project04,
@@ -60,8 +67,8 @@ const projects = [
 		web: 'https://react-stellar-burger-kappa.vercel.app/',
 		img: project05,
 		imgBig: project05Big,
-		about: 'Над этим проектом я сейчас работаю. Он написан на React JS. Сейчас я нахожусь на этапе подключения redux к проекту и реализации drag-n-drop, дальше я хочу типизировать все блоки и покрыть тестами все редьюсеры в проекте.',
-		gitHubLink: 'https://github.com/MansRamazanov/react-stellar-burger',
+		about: 'Над этим проектом я сейчас работаю. Он написан на React JS. Сейчас я нахожусь на этапе подключения redux к проекту и реализации drag-n-drop, дальше я хочу типизировать все блоки и покрыть тестами все редьюсеры в проекте. Ссылка на гит:',
+		gitHubLink: 'https://github.com/MansRamazanov/react-stellar-burger.git',
 	},
 
 ];
